@@ -1,7 +1,4 @@
-cat > miprimermd.md <<EOF
-# Título principal
 
-## Subtítulo
 
 Este es un párrafo con **negrita**, *cursiva* y \`código\`.
 
@@ -28,4 +25,3 @@ print("Hola Markdown")
 | Ana    | 23   | Madrid |
 | Luis   | 30   | Sevilla |
 | Marta  | 27   | Valencia |
-EOF
